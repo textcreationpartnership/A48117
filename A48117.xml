@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice to all the members of the Church of England, to come to the divine service, morning and evening, every day</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48117</idno><idno type="EEBO-CITATION">12387872</idno>
+  <idno type="VID">60896</idno>
+  <idno type="EEBO-PROQUEST">2248596188</idno>
+  
+            <idno type="STC">Wing L1568</idno>
+            <idno type="STC">ESTC R11753</idno>
+            <idno type="OCLC">12387872</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice to all the members of the Church of England, to come to the divine service, morning and evening, every day</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Keble ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60896:1"/>
+            <p>A LETTER OF ADVICE TO ALL THE MEMBERS OF THE <hi>Church of England,</hi> To come to the DIVINE SERVICE MORNING and EVENING EVERYDAY.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>April</hi> the 5th. 1688.</date>
+                           </dateline>
+                           <signed>R. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Keble,</hi> at the <hi>Turks-Head</hi> in <hi>Fleetstreet.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:60896:2"/>
+            <pb n="1" facs="tcp:60896:2"/>
+            <head>A LETTER OF ADVICE TO ALL THE MEMBERS OF THE CHURCH of ENGLAND. <hi>To come to the Divine Service, Morning and Evening every Day.</hi>
+            </head>
+            <opener>
+               <salute>My Christian Brethren,</salute>
+            </opener>
+            <p>I Direct my Discourse particularly to those that Profess to be of the Church of <hi>England,</hi> 'tis to you that I now speak as a Friend, as a Brother, for so I am sure we ought to be one to the other, with all lowliness and meek<g ref="char:EOLhyphen"/>ness, 'tis the Command of Christ (who is Love it self) that we love one another, by it we are known to be the True Disciples and Followers of him, and there can be no greater sign of our Love, than friendly to admonish one another, to this Holy Duty of Publick Prayers.</p>
+            <pb n="2" facs="tcp:60896:3"/>
+            <p>O do but consider the Beauty of Unity, and let it move you to run into the open Arms of your Mother the Church of <hi>England,</hi> and to be knit in the Bands of Amity with your Brethren in the Publick Assemblies every day in the Week, and then you will know, <hi>How good and how pleasant it is for Brethren to dwell together in Ʋnity,</hi> Psa. 133. I hope there need but few words to incourage you, that are of so good a Church, which hath such honest Doctrines, and hath no design upon any of her Children, but to make them hap<g ref="char:EOLhyphen"/>py, to which end she invites them to come readily to her prayers every day; for not performing this great Duty, how many miscarry in their business and concerns for want of the Publick Blessings to go along with them? And many are sick and weak amongst us, and yet how many do still neglect coming, and what small Congregations do we of<g ref="char:EOLhyphen"/>ten see in many Great Parishes on <hi>Wednesdays</hi> and <hi>Fridays,</hi> Is not this a reproach to Christian Religion, and to us that are of the Church of <hi>England?</hi> Shall we find time for eve<g ref="char:EOLhyphen"/>ry thing else, and shall not we find time for this great con<g ref="char:EOLhyphen"/>cern of our Souls? For with what confidence can we ex<g ref="char:EOLhyphen"/>pect a Blessing from our Heavenly Father without asking it? And what an ungrateful thing is it to receive Blessings at Gods hands daily, and not daily to acknowledge, and give him Thanks for them in the Publick Prayers, as well as Private; for by the Publick, we let the World see, we are not ashamed of our Religion; upon which if we do not daily attend, Men have reason to think we are void of all sense of Comfort by it; indifferent in it, and will have no respect for it, or such Lukewarm Professors.</p>
+            <p>For God is much more Honoured by our Publick Addresses to him than he can be, by any thing we can do in Private; not but we may and ought to use Private Prayers suitable to our necessities, but we must not neglect his Publick Wor<g ref="char:EOLhyphen"/>ship, which the Private ought not to hinder, but promote;
+<pb n="3" facs="tcp:60896:3"/>because in Truth,
+<note place="margin">
+                  <hi>See more at large in a late Discourse of the daily and Publick Prayers, by the Reverend Dean of</hi> Peterborough.</note> it is defective without Publick, being only Worship, but not so properly Honour, Glory, Sacrifice and Ser<g ref="char:EOLhyphen"/>vice.</p>
+            <p>On <hi>Sundays</hi> we have our Churches very full for the most part, which is a Conviction of our seeing its necessity, and and that one would think should be a means to make us come every day, for I am sure we want God's Blessing every day, as well as on the Lords Day. The Ministers of our Church will and do incourage this Holy and good de<g ref="char:EOLhyphen"/>sign for Publick Prayers every day; in Preaching to per<g ref="char:EOLhyphen"/>swade us to it. The satisfaction which every good Man finds in the constant use were indeed Argument enough, could it be exprest to others; for do but ask any of these that come daily to Publick Prayers, and they will tell you, there is no greater Pleasure nor Happiness here on Earth.</p>
+            <p>Besides, we that are of the Church of <hi>England</hi> (and shew our selves so Loyal and Dutiful in every thing else) by our Constancy at this best of Liturgies in the World, shall most convinceingly let others see (who boast how much they exceed in their Publick Devotions) that we are not short of them in the daily performance of that Sacred Duty. And how highly are they to be commended that have promoted the Prayers of the Church every Day in so many se<g ref="char:EOLhyphen"/>veral Parishes in and about this City of <hi>London?</hi>
+               <note place="margin">
+                  <hi>Which may be seen in the Rules for our more Devout Behaviour in the time of Divine Service in the Church of</hi> England, <hi>&amp;c. lately published.</hi>
+               </note> which already has had good insluence on the Country, who in many Parishes do the same, which is so good an Example, that it will I hope incourage more to do the like, when we consider it is our duty so to do; for this great Duty of ours, might be performed with great ease, if we would but meet in our Parishes and consult
+<pb n="4" facs="tcp:60896:4"/>what Hours are most convenient for the greatest part of them, for I am sure there is no Parish but has a sufficient number that are of the Church of <hi>England</hi> that will come, and I hope there are none, but may find time before busi<g ref="char:EOLhyphen"/>ness breaks in upon them, or when it is least pressing on their time, or when it is over: So that it must be certain<g ref="char:EOLhyphen"/>ly our own fault if we cannot find time at some Hours of every Day for this the greatest concern of our Souls.</p>
+            <p>And how many are there now among us that complain of want of Trade, and good success; and of the badness of the times: And all this is in a great measure by reason we neglect the Publick Service of the Church, for if we do but perform this our Duty every day, we are continually engaging God's Providence for us; A Blessing will attend all our lawful concerns, and we shall prosper in them all; for <hi>First Seek the Kingdome of Heaven</hi> (saith Christ) <hi>and all these things shall be added unto you.</hi> And however our present Health may direct other Methods, and make us less careful of that Future interest, when we come on Sick-Beds we shall very much lament the neglect of it. The best Method indeed to prevent this unhappiness in a grow<g ref="char:EOLhyphen"/>ing Posterity is for you that are Parents to take care that your Children as well as your selves, repair unto the Pub<g ref="char:EOLhyphen"/>lick Service of the Church, as often as they can on the Week days; and that they may know how to behave them<g ref="char:EOLhyphen"/>selves there, let them read the <hi>Rules for our more Devout Behaviour in the time of Divine Service in the Church of</hi> En<g ref="char:EOLhyphen"/>gland. These Rules were Published, to shew in what good Order the Publick Service of the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> is, and the Excellence and Usefulness of it, when its Rules are duly Observed.</p>
+            <p>Some will be apt to say, why will you go to Church, there will be nothing but Prayers to day; that is in words at length, there will be nothing but Praying and Honou<g ref="char:EOLhyphen"/>ring
+<pb n="5" facs="tcp:60896:4"/>of God, which is the choicest part of God's Worship, and Noblest Imployment in our Religion. The Council of the Apostles reserv'd this great Duty for their own Mi<g ref="char:EOLhyphen"/>nistration, <hi>Acts</hi> VI. <hi>v.</hi> 4. <hi>We will give our selves to Prayer, and Ministry of the Word.</hi> Here the primacy is assigned to Prayer, and it is evidently preferr'd before Preaching, be<g ref="char:EOLhyphen"/>ing the end thereof; and well it may, in regard of its Superlative Worth and Vertue, for it is a Duty of the nearest access to God; and if there was a necessity of making such Prayers for our Use, then there is a necessi<g ref="char:EOLhyphen"/>ty of our using them when they are made. And perhaps that Peace which we have possessed, when Nations round about us have been embroil'd in Wars, may be owing in good measure to our Churches Prayers.
+<note place="margin">
+                  <hi>See Mr.</hi> Warrens <hi>Sermon on the Publick Forms of Prayers more at large.</hi>
+               </note> Nor know I a more like<g ref="char:EOLhyphen"/>ly means we can use to fix peace a<g ref="char:EOLhyphen"/>mongst our selves, and make it la<g ref="char:EOLhyphen"/>sting.</p>
+            <p>It is indeed beyond the capacity of this short Discourse to recommend a Duty in all its advantages, which is de<g ref="char:EOLhyphen"/>signed for the procuring all kinds of Blessings to all Man<g ref="char:EOLhyphen"/>kind; and therefore to supply the shorntess of this which designs some general Motives only; and to excite a farther view of its Excellences, I most heartily recommend to you the Advice of the Pious and Reverend Lord Bishop of <hi>Bath</hi> and <hi>Wells,</hi> to the Clergy of his Diocess; that their greatest Zeal be spent for the publick Prayers in the constant and De<g ref="char:EOLhyphen"/>vout use of them every Day, both Morning and Evening, the Publick safety both of Church and State being highly concerned therein, and not to be discourag'd, if but few come to the Solemn Assemblies, but go to the House of Prayer where God is well known for a sure Refuge, go, tho' you go alone, or with but one besides your self. And also a Book lately Written by Dr. <hi>Patrick</hi> Dean of <hi>Pe<g ref="char:EOLhyphen"/>terborough,</hi> and Dr. <hi>Comber,</hi> of the daily Publick Prayers
+<pb n="6" facs="tcp:60896:5"/>of the Church; nor can I omit to conclude this Advice with a passage of a late Lord Bishop of <hi>Ely,</hi> who says,
+<note place="margin">
+                  <hi>Dr.</hi> Lany <hi>Bi<g ref="char:EOLhyphen"/>shop of</hi> Ely.</note> Our Service is a continual daily Sacrifice, a Morning and Evening Prayer, and tho the greatest Benefit of this belongs to those that daily attend it, yet being it is the Publick Sacrifice of the Church, all that are Members of that, have their part and interest in it, tho they be absent, yet not in equal measure. The present are intitled to the benefit of a Sacrifice offered by them, the absent as a Sacrifice offered for them, For this is our <hi>Euge Sacrificium,</hi> that is perpetually burning upon the Altar, for the Service of God, and in behalf of every Member of the Church that doth not <hi>ponere obicem'</hi> set a Bar upon himself by his willful neglect of it, or by his opposition to it.</p>
+            <p>So that I hope we may see our Churches full in the time of Divine Service every day, as well as when there is a Sermon. And my hearty Desire and Prayer unto God is, and shall be that they who formerly have not done it, may joyn with our Holy Church in her Heavenly Prayers, and that they who have done it, may still continue so to do. O! how ravishing a sight will it be to see this per<g ref="char:EOLhyphen"/>formed, it will seem a New World, and we should live as if we were in Heaven already.</p>
+            <p>Nothing now remains but to send up my Prayers to God, that he will affect by his Grace, all your hearts, that you may perform this your Duty.</p>
+            <p>And I pray God that he will vouchsafe us all, that fol<g ref="char:EOLhyphen"/>low these good Rules of our Church, that we may come to such a Glory as we cannot wish to have a Greater.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
